@@ -1,8 +1,10 @@
 # Kuafu
 
+![Kuafu](logo/kuafu.jpg)
+
 ### features
 - Common machine learning algorithms and utils
-- Friendly APIs for Bioinformatists
+- Friendly APIs
 - Deep Learning
 - GPU
 
