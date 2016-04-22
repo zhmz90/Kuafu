@@ -1,4 +1,4 @@
-# Kuafu
+## Kuafu: machine learning library with a focus on deep learning
 
 ![Kuafu](logo/kuafu.jpg)
 
