@@ -1,20 +1,21 @@
-## Kuafu: machine learning library with a focus on deep learning
+### Kuafu: data analytics and machine learning library with a focus on deep learning
 
 ![Kuafu](logo/kuafu.jpg)
 
-### features
+##### Features
+- data analytics with R
 - Common machine learning algorithms and utils
 - Friendly APIs
 - Deep Learning
 - GPU
 
-### design philosophy 
+##### Design Philosophy 
 - 面广务实
 - Focus on state-of-art or well-known algorithms
 - One tool enough to solve real tasks which can offer a unified interface
 
 
-### examples
+##### Examples
 
 ```python
 	knn = KNearestNeighbor()
