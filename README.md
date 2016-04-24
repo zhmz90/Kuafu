@@ -4,11 +4,13 @@
 
 
 ### Features
-- state-of-art or well-known machine learning algorithms
+- State-of-art or well-known machine learning algorithms
 - Deep Learning
-- data analytics with R
+- Data analytics with R
 - Friendly APIs
-- GPU
+- Rich visualization
+- GPU acceleration
+
 
 ### Examples
 
